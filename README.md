@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Computer Science Student**
+- 🎓 **Computer Science Student at UPES**
 - 🌱 Currently mastering **Data Structures & Algorithms, C, and Python**
 - 💡 Passionate about building **innovative solutions** that make a real difference
 - 💹 Working on **Stock Market Portfolio Tracker** project
