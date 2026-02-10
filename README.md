@@ -164,32 +164,6 @@
   </a>
 </p>
 
----
-
-## 💭 My Philosophy
-
-> **"Every line of code is a step forward. Consistency beats intensity. Code daily, grow exponentially."**
-
----
-
-## 📊 Weekly Development Breakdown
-
-```text
-C Programming   ███████████████░░░░░   75%
-Python          ██████████░░░░░░░░░░   50%
-DSA Practice    ████████████████░░░░   80%
-Projects        ████████░░░░░░░░░░░░   40%
-Learning        ██████████████████░░   90%
-```
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</p>
-
-<h3 align="center">Thanks for visiting! Let's build something amazing together ✨</h3>
-
-<p align="center">
-  <strong>⭐️ If you like my projects, give them a star! It keeps me motivated! ⭐️</strong>
 </p>
