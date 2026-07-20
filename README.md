@@ -44,9 +44,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bhooviverma&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhooviverma&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFF&sideLabels=FFF&currStreakNum=FFF&sideNums=FFF" alt="GitHub Streak" width="48%"/>
-</p>
----
 
 ## 📈 Contribution Graph
 
