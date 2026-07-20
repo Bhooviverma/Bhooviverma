@@ -117,42 +117,6 @@
 
 ---
 
-## 🏆 Achievements & Milestones
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhooviverma&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies"/>
-</p>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  🎯  100 Days of Code                                        ║
-║  📚  Mastering C Programming, Python, and AI/ML               ║
-║  🌱  Committed to coding every single day                    ║
-║  💡  Building real-world projects with purpose               ║
-║  🚀  Focused on Data Structures & Algorithms                 ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 💪 Current Challenge: 100 Days of Code
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Days_Completed-In_Progress-00CED1?style=for-the-badge&logo=calendar&logoColor=white" alt="100 Days Progress"/>
-  <img src="https://img.shields.io/badge/Total_Days-100-F85D7F?style=for-the-badge&logo=target&logoColor=white" alt="Total Days"/>
-  <img src="https://img.shields.io/badge/Commitment-Daily_Coding-4ECDC4?style=for-the-badge&logo=code&logoColor=white" alt="Commitment"/>
-</p>
-
-**🎯 Focus Areas:**
-- 💻 Data Structures & Algorithms
-- 🧩 Problem Solving Techniques
-- 🚀 C Programming Mastery
-- 🐍 Python Development
-- 🤖 AI/ML Fundamentals
-- 📈 Consistent Progress Tracking
-
----
-
 ## 💬 Let's Connect & Collaborate!
 
 ### 🌐 Find Me Around the Web
