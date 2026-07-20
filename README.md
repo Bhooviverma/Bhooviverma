@@ -5,7 +5,7 @@
 <h2 align="center">🚀 Transforming Ideas Into Code 🚀</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CED1&center=true&vCenter=true&width=435&lines=Problem+Solver;Tech+Enthusiast;100+Days+of+Code+Champion;Algorithm+Explorer;Future+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CED1&center=true&vCenter=true&width=435&lines=Problem+Solver;Tech+Enthusiast;100+Days+of+Code+Champion;AI%2FML+Explorer;Future+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,7 +15,8 @@
 - 🎓 **Computer Science Student**
 - 🌱 Currently mastering **Data Structures & Algorithms, C, and Python**
 - 💡 Passionate about building **innovative solutions** that make a real difference
-- 💹 Working on **Stock Market Portfolio Tracker** project
+- 🤖 Exploring **AI/ML** through hands-on projects like sentiment analysis
+- 🍽️ Building full-stack style desktop apps with **Python, Tkinter & MongoDB**
 - 🔍 Always exploring **problem-solving techniques** and **efficient algorithms**
 - 💪 Believer in **consistent daily progress** and **clean code**
 
@@ -28,6 +29,16 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+### Frameworks & Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NLTK"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
 </p>
 
 ### Developer Tools
@@ -44,7 +55,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Structures"/>
   <img src="https://img.shields.io/badge/Algorithms-4ECDC4?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="Algorithms"/>
-  <img src="https://img.shields.io/badge/Problem_Solving-95E1D3?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-95E1D3?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
 </p>
 
 ---
@@ -73,6 +84,24 @@
 ## 🚀 Featured Projects
 
 <table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎬 Sentiment Analysis (AI/ML)</h3>
+      <a href="https://github.com/Bhooviverma/Sentiment-Analysis-AI-ML-Project">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+      </a>
+      <p><strong>Built with:</strong> Python, NLTK (VADER), TextBlob, Scikit-learn</p>
+      <p>Sentiment analysis on IMDb movie reviews with model comparison, evaluation, and custom text testing</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🍽️ Dine & Reserve</h3>
+      <a href="https://github.com/Bhooviverma/Restaurant-Seat-Allocation-Python-Project">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+      </a>
+      <p><strong>Built with:</strong> Python (Tkinter), MongoDB</p>
+      <p>Desktop restaurant booking app with real-time seat availability and automated cost calculation</p>
+    </td>
+  </tr>
   <tr>
     <td align="center" width="50%">
       <h3>💹 Stock Market Portfolio</h3>
@@ -122,7 +151,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  🎯  100 Days of Code                                        ║
-║  📚  Mastering C Programming, Python                         ║
+║  📚  Mastering C Programming, Python, and AI/ML               ║
 ║  🌱  Committed to coding every single day                    ║
 ║  💡  Building real-world projects with purpose               ║
 ║  🚀  Focused on Data Structures & Algorithms                 ║
@@ -144,6 +173,7 @@
 - 🧩 Problem Solving Techniques
 - 🚀 C Programming Mastery
 - 🐍 Python Development
+- 🤖 AI/ML Fundamentals
 - 📈 Consistent Progress Tracking
 
 ---
